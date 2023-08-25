@@ -7,10 +7,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-de-bug&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alex-de-bug&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-de-bug&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex-de-bug&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alex-de-bug&theme=solarized_dark)
