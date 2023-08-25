@@ -5,4 +5,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-de-bug
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Alex-de-bug&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-de-bug&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alex-de-bug&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-de-bug&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex-de-bug&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alex-de-bug&theme=solarized_dark)
