@@ -5,4 +5,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-de-bug
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Alex-de-bug/&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
