@@ -10,3 +10,5 @@
 
 ![Static Badge](https://img.shields.io/badge/laptop-Macbook_Air_2022-brightgreen?logo=apple)
 
+![Static Badge](https://img.shields.io/badge/MacOS_M2_8_256-grey?logo=arm)
+
