@@ -7,7 +7,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-de-bug&theme=solarized_dark)
 
-### Machine
-![laptop](https://img.shields.io/badge/Mac?style=for-the-badge&logo=arm)
 
-![CPU](https://img.shields.io/badge/M2_8_256?style=for-the-badge&logo=arm)
+![Static Badge](https://img.shields.io/badge/laptop-Macbook_Air_2022-brightgreen?logo=apple)
+
