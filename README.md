@@ -9,7 +9,7 @@
 
 ![Static Badge](https://img.shields.io/badge/laptop-Macbook_Air_2022-brightgreen?logo=apple)
 
-![Static Badge](https://img.shields.io/badge/MacOS_M2_8_256-grey?logo=arm)
+![Static Badge](https://img.shields.io/badge/mac_OS-M2_8GiB_256GiB-blue?logo=macos)
 
 ![Static Badge](https://img.shields.io/badge/laptop-ThinkPad_T480-red?logo=lenovo)
 
