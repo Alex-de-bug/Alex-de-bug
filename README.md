@@ -13,5 +13,8 @@
 
 ![Static Badge](https://img.shields.io/badge/laptop-ThinkPad_T480-red?logo=lenovo)
 
+![Static Badge](https://img.shields.io/badge/arch_OS-i7_32GiB_512GiB-blue?logo=kde)
+
+
 
 
