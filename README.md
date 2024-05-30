@@ -3,8 +3,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-de-bug&theme=solarized_dark)
 
-<!--START_SECTION:waka-readme-->
-<!--END_SECTION:waka-readme-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Static Badge](https://img.shields.io/badge/laptop-Macbook_Air_2022-brightgreen?logo=apple)
 ![Static Badge](https://img.shields.io/badge/mac_OS-M2_8GiB_256GiB-blue?logo=macos)
