@@ -4,6 +4,15 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-de-bug&theme=solarized_dark)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 29 May 2024 - To: 29 May 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![Static Badge](https://img.shields.io/badge/laptop-Macbook_Air_2022-brightgreen?logo=apple)
