@@ -6,15 +6,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 May 2024 - To: 03 June 2024
+From: 29 May 2024 - To: 04 June 2024
 
-Total Time: 6 hrs 13 mins
+Total Time: 7 hrs 38 mins
 
-TeX        5 hrs 29 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.31 %
-YAML       29 mins         >>-----------------------   07.94 %
-Markdown   13 mins         >------------------------   03.54 %
-Java       0 secs          -------------------------   00.20 %
-XML        0 secs          -------------------------   00.00 %
+TeX              6 hrs 45 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.30 %
+YAML             29 mins         >>-----------------------   06.46 %
+Markdown         13 mins         >------------------------   02.88 %
+GitIgnore file   9 mins          >------------------------   02.16 %
+Java             0 secs          -------------------------   00.20 %
+XML              0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
