@@ -6,20 +6,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 May 2024 - To: 10 August 2024
+From: 29 May 2024 - To: 11 August 2024
 
-Total Time: 43 hrs 28 mins
+Total Time: 46 hrs 41 mins
 
-TeX               38 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.15 %
-JavaScript        3 hrs 16 mins   >>-----------------------   07.53 %
-Java              35 mins         -------------------------   01.35 %
-YAML              29 mins         -------------------------   01.14 %
-Markdown          13 mins         -------------------------   00.51 %
-GitIgnore file    9 mins          -------------------------   00.38 %
-Java Properties   9 mins          -------------------------   00.35 %
-CSS               6 mins          -------------------------   00.24 %
-Git Config        5 mins          -------------------------   00.22 %
-XML               1 min           -------------------------   00.07 %
+TeX               38 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>----   82.08 %
+JavaScript        6 hrs 29 mins   >>>----------------------   13.90 %
+Java              35 mins         -------------------------   01.26 %
+YAML              29 mins         -------------------------   01.06 %
+Markdown          13 mins         -------------------------   00.47 %
+GitIgnore file    9 mins          -------------------------   00.35 %
+Java Properties   9 mins          -------------------------   00.33 %
+CSS               6 mins          -------------------------   00.22 %
+Git Config        5 mins          -------------------------   00.20 %
+XML               1 min           -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
