@@ -4,13 +4,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-de-bug&theme=solarized_dark)
 
 ![Static Badge](https://img.shields.io/badge/laptop-zephyrus-red?logo=republicofgamers)
-![Static Badge](https://img.shields.io/badge/mac_OS-M2_8GiB_256GiB-blue?logo=macos)
+![Static Badge](https://img.shields.io/badge/kdeplasma-r9_32GiB_512GiB_3060-blue?logo=kdeplasma)
 
-![Static Badge](https://img.shields.io/badge/PC-xfce-blue?logo=xfce)
+![Static Badge](https://img.shields.io/badge/PC-kdeplasma-blue?logo=kdeplasma)
 ![Static Badge](https://img.shields.io/badge/Zen_4_r5-7500F-red?logo=AMD)
-![Static Badge](https://img.shields.io/badge/5600MHz-8+8_GiB-red?logo=v)
-![Static Badge](https://img.shields.io/badge/m2-256+512GiB-black?logo=kingstontechnology)
-![Static Badge](https://img.shields.io/badge/gtx_sc2-EVGA_1080_ti-7239B3?logo=e)
+![Static Badge](https://img.shields.io/badge/5600MHz-16_GiB-red?logo=v)
+![Static Badge](https://img.shields.io/badge/768GiB-black?logo=kingstontechnology)
+![Static Badge](https://img.shields.io/badge/sc2-EVGA_1080_ti-7239B3?logo=e)
 
 
 
