@@ -9,7 +9,7 @@
 
 ![Static Badge](https://img.shields.io/badge/PC-kdeplasma-blue?logo=kdeplasma)
 ![Static Badge](https://img.shields.io/badge/Zen_4_r5-7500F-red?logo=AMD)
-![Static Badge](https://img.shields.io/badge/5600MHz-16_GiB-red?logo=v)
+![Static Badge](https://img.shields.io/badge/6000MHz-32_GiB-red?logo=corsar)
 ![Static Badge](https://img.shields.io/badge/768GiB-black?logo=kingstontechnology)
 ![Static Badge](https://img.shields.io/badge/sc2-EVGA_1080_ti-7239B3?logo=e)
 
